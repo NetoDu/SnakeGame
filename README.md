@@ -11,6 +11,8 @@ You can Start the game by clicking "START" on menu or just pressing "A" on keybo
 
 Every 50 points you get, the speed increase and every "food" you eat, the Snake grows.
 
+In the options menu, you can choose the difficulty. Each difficulty has one snake with different color and initial speed.
+
 # HOTKEYS
 key "A" - Start the game.
 

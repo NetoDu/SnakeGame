@@ -13,8 +13,11 @@ Every 50 points you get, the speed increase and every "food" you eat, the Snake 
 
 # HOTKEYS
 key "A" - Start the game.
+
 key "S" - increase the Snake speed at one (If you get to zero, the game crashes).
+
 key "D" - Debug mode, contains some information to help the game creation.
+
 key "C" - Enable the Cheat Mode, the Snake never dies util you desable it.
 
 
